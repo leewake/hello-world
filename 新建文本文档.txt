@@ -37,6 +37,7 @@ public class StaticTest{
 }
 
 
+
 /* running result 
 2
 3
