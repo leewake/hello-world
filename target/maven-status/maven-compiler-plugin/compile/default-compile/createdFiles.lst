@@ -1,0 +1,6 @@
+com\pangpang\mvnbook\util\XwpfUtil.class
+com\pangpang\mvnbook\helloworld\HelloWorld.class
+com\pangpang\mvnbook\controller\HelloController.class
+com\pangpang\mvnbook\generic\Rectangle.class
+com\pangpang\mvnbook\helloworld\App.class
+com\pangpang\mvnbook\service\WordService.class
